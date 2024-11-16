@@ -1,0 +1,40 @@
+Crear una aplicación web que consuma datos de una API REST pública y muestre la información en la interfaz. El objetivo es practicar la integración de APIs con JavaScript y la manipulación dinámica del DOM.Requisitos del Trabajo:
+
+(Solo una sugerencia)
+Crear una página HTML con un campo de entrada donde el usuario pueda especificar la cantidad de elementos a mostrar.
+
+Agregar un botón que, al ser presionado, desencadene la obtención de datos desde la API.
+
+Incluir un contenedor donde se mostrarán los resultados en forma de lista o tarjetas.
+
+Usar fetch para obtener información desde una . Puedes elegir entre alguna de las siguientes:
+: Obtén detalles de personajes, hechizos, monstruos y más del universo D&D.
+: Muestra personajes, episodios y ubicaciones de la famosa serie animada.
+: Recupera información sobre Pokémon, habilidades y movimientos.
+: Muestra detalles de personajes, hechizos y criaturas del mundo mágico.
+: Consulta datos de personajes, naves, y planetas del universo de Star Wars.
+
+Mostrar los datos obtenidos en el contenedor, utilizando una estructura HTML adecuada (listas, tarjetas, etc.).
+Formatear el contenido de manera que sea legible y atractivo visualmente.
+
+Aplicar estilos usando un archivo styles.css para mejorar la presentación de la aplicación.
+Usar colores y tipografías que mejoren la experiencia del usuario y que se alineen con la temática elegida (
+por ejemplo, colores oscuros para D&D o una paleta de colores más alegre para Pokémon).
+
+Agregar un botón para recargar o limpiar los elementos.
+Implementar un filtro para que el usuario pueda buscar elementos específicos dentro de los resultados obtenidos.
+Añadir animaciones CSS para mejorar la transición al mostrar/ocultar elementos.
+
+Entregables:
+Subir los archivos index.html, script.js y styles.css a un repositorio en GitHub.
+Incluir un archivo README.md con las siguientes secciones:
+Descripción del proyecto.
+Instrucciones para ejecutar el proyecto.
+Explicación breve de la API utilizada y su temática.
+
+Puntos a Evaluar:
+Correcta estructura del proyecto.
+Uso de fetch y manejo de errores.
+Manipulación del DOM para mostrar los datos.
+Legibilidad y organización del código.
+Estilo y presentación de la interfaz.
